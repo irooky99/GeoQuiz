@@ -57,6 +57,7 @@ public class QuizActivity extends AppCompatActivity {
         }
 
 // I changed this code at masters
+        // master commit test 2
         Toast.makeText(QuizActivity.this, messageResId, Toast.LENGTH_SHORT).show();
     }
 
